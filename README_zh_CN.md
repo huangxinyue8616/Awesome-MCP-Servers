@@ -4,6 +4,10 @@
 
 ---
 
+另外，我们提供了一份完整的[MCP服务列表](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/Full-List-of-MCP-Servers.xlsx), 该列表由爬虫整理而来，包含大约6000条目。
+
+---
+
 ## 所有语言的文档
 > 文档翻译招募中! [We're looking for translators](https://github.com/YuzeHao2023/Awesome-MCP-Servers/issues/1) to help translate this spec for everyone!
 
